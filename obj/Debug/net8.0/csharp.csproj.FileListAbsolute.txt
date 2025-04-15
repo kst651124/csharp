@@ -1,0 +1,14 @@
+/Users/kst_macpro/csharp/bin/Debug/net8.0/csharp
+/Users/kst_macpro/csharp/bin/Debug/net8.0/csharp.deps.json
+/Users/kst_macpro/csharp/bin/Debug/net8.0/csharp.runtimeconfig.json
+/Users/kst_macpro/csharp/bin/Debug/net8.0/csharp.dll
+/Users/kst_macpro/csharp/bin/Debug/net8.0/csharp.pdb
+/Users/kst_macpro/csharp/obj/Debug/net8.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kst_macpro/csharp/obj/Debug/net8.0/csharp.AssemblyInfoInputs.cache
+/Users/kst_macpro/csharp/obj/Debug/net8.0/csharp.AssemblyInfo.cs
+/Users/kst_macpro/csharp/obj/Debug/net8.0/csharp.csproj.CoreCompileInputs.cache
+/Users/kst_macpro/csharp/obj/Debug/net8.0/csharp.dll
+/Users/kst_macpro/csharp/obj/Debug/net8.0/refint/csharp.dll
+/Users/kst_macpro/csharp/obj/Debug/net8.0/csharp.pdb
+/Users/kst_macpro/csharp/obj/Debug/net8.0/csharp.genruntimeconfig.cache
+/Users/kst_macpro/csharp/obj/Debug/net8.0/ref/csharp.dll
