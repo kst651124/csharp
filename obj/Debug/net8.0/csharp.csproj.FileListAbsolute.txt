@@ -12,3 +12,4 @@
 /Users/kst_macpro/csharp/obj/Debug/net8.0/csharp.pdb
 /Users/kst_macpro/csharp/obj/Debug/net8.0/csharp.genruntimeconfig.cache
 /Users/kst_macpro/csharp/obj/Debug/net8.0/ref/csharp.dll
+/Users/kst_macpro/csharp/obj/Debug/net8.0/csharp.sourcelink.json
